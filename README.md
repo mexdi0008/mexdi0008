@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/badge/Location-Baku,%20Azerbaijan-555?style=flat-square" alt="Baku">
 </p>
 
+> [!NOTE]
+> This is my new GitHub account. My previous account (**mexdi008**), which I used for about 7 years, was suspended, so my earlier commit history and repositories are not visible here. My main projects have been re-published on this account.
+
 I build secure, well-tested backend systems with **Java and Spring Boot** — from REST APIs and authentication to deployment on Linux servers.
 
 - 🛒 Built and run **[mivo.az](https://mivo.az)** — an e-commerce platform in production (Spring Boot, PostgreSQL, Flyway, nginx, Cloudflare)
